@@ -1,0 +1,4 @@
+java is oops
+cpp is pos and oops
+php is pos and oops
+ds is data structure

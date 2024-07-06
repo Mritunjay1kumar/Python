@@ -1,0 +1,9 @@
+s='Javascriptlanguage'
+p=s.find('a')
+print(p)
+p=s.find('a',7)
+print(p)
+p=s.find('m')
+print(p)
+p=s.find('a',7,9)
+print(p)
